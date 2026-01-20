@@ -110,5 +110,4 @@ Este projeto é facilmente adaptável para:
 ## 📬 Contato
 Fico à disposição para conversar sobre este projeto, oportunidades na área de **Dados, BI, Engenharia ou Ciência de Dados**, e novos desafios em tecnologia.
 
-🔗 **LinkedIn**  
 - 💼 LinkedIn: [Jéssica Fuentes](https://www.linkedin.com/in/j%C3%A9ssica-fuentes/)

@@ -1,4 +1,4 @@
-# 🤖 AI Chatbot com Python, OpenAI e Streamlit
+# 🤖 AI Chatbot com Python, OpenAI e Streamlit jh
 
 Projeto de **Chatbot com Inteligência Artificial** desenvolvido em **Python**, utilizando a **API da OpenAI** e o framework **Streamlit** para construção de uma interface web interativa.  
 O sistema permite que usuários enviem mensagens em tempo real e recebam respostas geradas por um modelo de linguagem, mantendo o histórico da conversa durante a sessão.
